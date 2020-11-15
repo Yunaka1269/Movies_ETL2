@@ -5,10 +5,10 @@
 ###Result
 
 -movies table displays 6051 rows 
-[movies_table](https://github.com/Yunaka1269/Movies-ETL/blob/main/Resources/movies_query.PNG)
+[movies_table](https://github.com/Yunaka1269/Movies_ETL2/blob/main/Resources/movies_query.PNG)
 
 -ratings table displays 26,024,289 rows 
-[ratings_table](https://github.com/Yunaka1269/Movies-ETL/blob/main/Resources/ratings_query.PNG)
+[ratings_table](https://github.com/Yunaka1269/Movies_ETL2/blob/main/Resources/ratings_query.PNG)
 
 ####Resources
 
